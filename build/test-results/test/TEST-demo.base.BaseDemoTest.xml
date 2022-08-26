@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="demo.base.BaseDemoTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-08-26T05:42:33" hostname="DESKTOP-6EJR9L9" time="0.025">
+  <properties/>
+  <testcase name="shouldReturnNinetyNineWhenGivenSixtySixAndThirtyThree()" classname="demo.base.BaseDemoTest" time="0.015"/>
+  <testcase name="should_return_hello_world()" classname="demo.base.BaseDemoTest" time="0.004"/>
+  <testcase name="shouldReturnTwentyFourWhenGivenSixteenAndEight()" classname="demo.base.BaseDemoTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
